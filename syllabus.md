@@ -69,7 +69,7 @@ Some readings are marked with `math` indicating that students with knowledge of 
 - `introduction` M. Taylor, Make Your Own Neural Network: An In-depth Visual Introduction For Beginners. Independently published, 2017, 10-22 & 197-253
 
 #### Lesson 8 ####
-- http://neuralnetworksanddeeplearning.com/chap1.html
+- M.A. Nielsen, 2015, Neural Networks and Deep Learning, Determination Press, chp 1 [Online](http://neuralnetworksanddeeplearning.com/chap1.html).
 -  P. Madhu, R. Kosti, L. Mührenberg, P. Bell, A. Maier, and V. Christlein, “Recognizing Characters in Art History Using Deep Learning,” arXiv:2003.14171 [cs], Apr. 2020, doi: 10.1145/3347317.3357242.
 
 #### Lesson 9 ####
@@ -81,7 +81,7 @@ Some readings are marked with `math` indicating that students with knowledge of 
 - Z. Sabetsarvestani, B. Sober, C. Higgitt, I. Daubechies, and M. R. D. Rodrigues, “Artificial intelligence for art investigation: Meeting the challenge of separating x-ray images of the Ghent Altarpiece,” Sci. Adv., vol. 5, no. 8, p. eaaw7416, Aug. 2019, doi: 10.1126/sciadv.aaw7416.
 
 #### Lesson 11 ####
-- http://neuralnetworksanddeeplearning.com/chap6.html
+- M.A. Nielsen, 2015, Neural Networks and Deep Learning, Determination Press, chp 6 [Online](http://neuralnetworksanddeeplearning.com/chap6.html).
 
 #### Lesson 12 ####
 - L. A. Gatys, A. S. Ecker, and M. Bethge, 2015, “A Neural Algorithm of Artistic Style,” arXiv:1508.06576 [cs, q-bio], [Download](http://arxiv.org/abs/1508.06576).
