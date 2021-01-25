@@ -2,9 +2,11 @@
 
 ## Overview ##
 
+
 ### Goals ###
 
 ## Schedule ##
+Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 1hr coding task explanation, and 2hrs code-along session. 
 
 1. Python exemplified with image processing
 2. Image processing with Python
