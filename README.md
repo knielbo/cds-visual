@@ -28,7 +28,7 @@ $ source venv/bin/activate
 Clone repository and install requirements
 
 ```bash
-$ git clone https://github.com/knielbo/cds-visual.git
+$ git clone git@github.com:knielbo/cds-visual.git
 $ pip3 install -r requirements.txt
 ```
 
