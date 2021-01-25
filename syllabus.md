@@ -48,7 +48,15 @@ Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 
 - P. Fyfe and Q. Ge, 2018, "Image Analytics and the Nineteenth-Century Illustrated Newspaper," p. 25.
 - J. Howse, 2013, OpenCV Computer Vision with Python. Packt Publishing, chp 2.
 #### Lesson 4 ####
+@Students make sure you have read previous Readings for Lessons, otherwise you should catch up now before we start ML & DL.
+
+- A. Ranjan, V. N. J. Behera, and M. Reza, (2020) "OCR using Computer Vision and Machine Learning," p. 24.
+- M. Wevers and T. Smits, "Detecting Faces, Visual Medium Types, and Gender in Historical Advertisements, 1950–1995," in Computer Vision – ECCV 2020 Workshops, Cham, 2020, pp. 77–91.
+
 #### Lesson 5 ####
+
+
+
 #### Lesson 6 ####
 #### Lesson 7 ####
 #### Lesson 8 ####
