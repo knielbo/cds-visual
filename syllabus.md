@@ -39,6 +39,8 @@ Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 
 13. Beyond CNNs & project proposals
 
 ## Reading ##
+Some readings are marked with `math` indicating that students with knowledge of basic calculus, probability theory, and linear algebra can benefit from this paper instead of the `introduction` paper. In those cases, both papers are therefore _not required_ reading.
+
 #### Lesson 1 ####
 - T. Arnold & L. Tilton (2019) "Distant viewing: analyzing large visual corpora," Digital Scholarship in the Humanities. pp 1-14.
 #### Lesson 2 ####
@@ -54,18 +56,39 @@ Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 
 - M. Wevers and T. Smits, "Detecting Faces, Visual Medium Types, and Gender in Historical Advertisements, 1950–1995," in Computer Vision – ECCV 2020 Workshops, Cham, 2020, pp. 77–91.
 
 #### Lesson 5 ####
-
-
+- T. M. Mitchell, “Does Machine Learning Really Work?,”. [Download](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1303).
+- M. Kirk, “Thoughtful Machine Learning with Python,” chp 2
+- J. Kleinberg, S. Mullainathan, and M. Raghavan, 2016, "Inherent Trade-Offs in the Fair Determination of Risk Scores," arXiv:1609.05807 [cs, stat]. [Download](http://arxiv.org/abs/1609.05807).
 
 #### Lesson 6 ####
-#### Lesson 7 ####
-#### Lesson 8 ####
-#### Lesson 9 ####
-#### Lesson 10 ####
-#### Lesson 11 ####
-#### Lesson 12 ####
-#### Lesson 13 ####
+- `introduction` M. Kirk, "Thoughtful Machine Learning with Python," chp 3
+- `math` Hastie et al. The Elements of Statistical Learning - 2nd edition
 
+#### Lesson 7 ####
+- `math` M. Kirk, "Thoughtful Machine Learning with Python,"", chp 8.
+- `introduction` M. Taylor, Make Your Own Neural Network: An In-depth Visual Introduction For Beginners. Independently published, 2017, 10-22 & 197-253
+
+#### Lesson 8 ####
+- http://neuralnetworksanddeeplearning.com/chap1.html
+-  P. Madhu, R. Kosti, L. Mührenberg, P. Bell, A. Maier, and V. Christlein, “Recognizing Characters in Art History Using Deep Learning,” arXiv:2003.14171 [cs], Apr. 2020, doi: 10.1145/3347317.3357242.
+
+#### Lesson 9 ####
+- Y. Lecun, L. Bottou, Y. Bengio, and P. Haffner, “Gradient-based learning applied to document recognition,” Proceedings of the IEEE, vol. 86, no. 11, pp. 2278–2324, Nov. 1998, doi: 10.1109/5.726791.
+- `math` V. Dumoulin and F. Visin, 2018, "A guide to convolution arithmetic for deep learning," arXiv:1603.07285 [cs, stat], [Download](http://arxiv.org/abs/1603.07285).
+
+#### Lesson 10 ####
+- A. Krizhevsky, I. Sutskever, and G. E. Hinton, “ImageNet classification with deep convolutional neural networks,” Commun. ACM, vol. 60, no. 6, pp. 84–90.
+- Z. Sabetsarvestani, B. Sober, C. Higgitt, I. Daubechies, and M. R. D. Rodrigues, “Artificial intelligence for art investigation: Meeting the challenge of separating x-ray images of the Ghent Altarpiece,” Sci. Adv., vol. 5, no. 8, p. eaaw7416, Aug. 2019, doi: 10.1126/sciadv.aaw7416.
+
+#### Lesson 11 ####
+- http://neuralnetworksanddeeplearning.com/chap6.html
+
+#### Lesson 12 ####
+- L. A. Gatys, A. S. Ecker, and M. Bethge, 2015, “A Neural Algorithm of Artistic Style,” arXiv:1508.06576 [cs, q-bio], [Download](http://arxiv.org/abs/1508.06576).
+- K. Simonyan and A. Zisserman, "Very Deep Convolutional Networks for Large-Scale Image Recognition," arXiv:1409.1556 [cs], [Download]](http://arxiv.org/abs/1409.1556).
+
+#### Lesson 13 ####
+[NA]
 
 
 ### Additional Resources ###
