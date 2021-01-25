@@ -2,8 +2,24 @@
 
 ## Overview ##
 
+The purpose of the course is to enable students to conduct systematic computational analyses of visual objects such as paintings, photographs, archaeological artefacts, and digital products. Students will learn to understand the composition of collections of visual objects, and to apply statistical and machine learning methods for analysing them. The course will enable students to carry out projects within their primary subject area, and to reflect critically on others' analytical decisions. Students will also obtain the ability to present the result of their own analyses, and to visualize their results.
 
-### Goals ###
+The course introduces basic programming and visualization skills for the systematic analysis of collections of visual materials. Students will learn how to develop research questions about visual materials, to structure research projects to address their research questions, and to apply computational tools in their projects to provide answers to their questions.
+
+### Academic Objectives ###
+
+In the evaluation of the student’s performance, emphasis is placed on the extent to which the student is able to:
+
+1. Knowledge:
+  - explain central theories underlying computational approaches to the analysis of visual objects
+  - reflect on the creation, composition, and limitations of a data corpus of visual materials.
+2. Skills:
+  - develop a collection of visual materials for analysis
+  - conduct large scale analyses of visual materials using computational methods
+  - choose the appropriate visualization of results.
+3. Competences:
+  - independently reflect critically on the integration of hermeneutical-conceptual and quantitative-methodological choices for an analysis
+  - apply acquired methods and procedures to topics from the student’s core field.
 
 ## Schedule ##
 Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 1hr coding task explanation, and 2hrs code-along session.
