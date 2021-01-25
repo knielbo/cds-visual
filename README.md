@@ -32,6 +32,9 @@ $ git clone git@github.com:knielbo/cds-visual.git
 $ pip3 install -r requirements.txt
 ```
 
+### GPU acceleration
+
+[TBA] for your desired CUDA version.
 
 ## Contributing
 
