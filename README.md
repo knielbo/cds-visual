@@ -6,12 +6,7 @@ authors: R.D. Kristensen-McLachlan & K.L. Nielbo
 contact: rdkm@cc.au.dk & kln@cas.au.dk
 ```
 
-:::info
-Notes (temporary)
-
-Something something
-
-:::
+> **_NOTE:_** The repository is still in development for Spring 2021
 
 ## Prerequisites
 
