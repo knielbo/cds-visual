@@ -13,6 +13,26 @@ Something something
 
 :::
 
+## Prerequisites
+
+For running in virtual environment (recommended) and assuming python3.6+ is installed.
+
+```bash
+$ sudo pip3 install virtualenv
+$ virtualenv -p /usr/bin/python3 venv
+$ source venv/bin/activate
+```
+
+## Installation
+
+Clone repository and install requirements
+
+```bash
+$ git clone https://github.com/knielbo/cds-visual.git
+$ pip3 install -r requirements.txt
+```
+
+
 ## Contributing
 
 1. Fork it!
@@ -35,4 +55,4 @@ Something something
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Acknowledgment
