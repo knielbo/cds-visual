@@ -11,15 +11,15 @@ The course introduces basic programming and visualization skills for the systema
 In the evaluation of the student’s performance, emphasis is placed on the extent to which the student is able to:
 
 1. Knowledge:
-    - explain central theories underlying computational approaches to the analysis of visual objects
-    - reflect on the creation, composition, and limitations of a data corpus of visual materials.
+    * explain central theories underlying computational approaches to the analysis of visual objects
+    * reflect on the creation, composition, and limitations of a data corpus of visual materials.
 2. Skills:
-    - develop a collection of visual materials for analysis
-    - conduct large scale analyses of visual materials using computational methods
-    - choose the appropriate visualization of results.
+    * develop a collection of visual materials for analysis
+    * conduct large scale analyses of visual materials using computational methods
+    * choose the appropriate visualization of results.
 3. Competences:
-    - independently reflect critically on the integration of hermeneutical-conceptual and quantitative-methodological choices for an analysis
-    - apply acquired methods and procedures to topics from the student’s core field.
+    * independently reflect critically on the integration of hermeneutical-conceptual and quantitative-methodological choices for an analysis
+    * apply acquired methods and procedures to topics from the student’s core field.
 
 ## Schedule ##
 Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 1hr coding task explanation, and 2hrs code-along session.
