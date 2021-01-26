@@ -25,7 +25,11 @@ In the evaluation of the student’s performance, emphasis is placed on the exte
 Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 1hr coding task explanation, and 2hrs code-along session.
 
 1. Python exemplified with image processing
+    * basic manipulation of images
+    * image translation
 2. Image processing with Python
+    * color-channels and -space
+    * histograms
 3. Image processing with `OpenCV`
 4. Use cases: Face detection & handwriting recognition
 5. Introduction to classical machine learning
