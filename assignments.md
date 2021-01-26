@@ -76,4 +76,27 @@
 Exam: The portfolio will consist of 3-7 assignments.
 
 ### Assignment 1
-colorspace and histograms for n pictures
+
+__Image Search Engine__
+_Tasks_
+1. Show how to extract and visualize color histograms from an image.
+2. Exemplify how to compare two histograms for similarity and access their similarity
+3. Select $n$ images (for $n > 3$) and rank the images for similarity
+
+#### Similarity
+https://hiweller.github.io/colordistance/color-metrics.html
+1. `cv2.compareHist`
+2. Earth Mover’s Distance (scipy.stats.wasserstein_distance)
+3. Chi-squared
+```py
+def chiSquared(p, q):
+    return 0.5 * np.sum((p - q) **2 / (p + q + 1e-6))
+
+
+def chi2_distance(histA, histB, eps = 1e-10):
+    # compute the chi-squared distance
+    d = 0.5 * np.sum([((a - b) ** 2) / (a + b + eps)
+        for (a, b) in zip(histA, histB)])
+    # return the chi-squared distance
+    return d
+```
