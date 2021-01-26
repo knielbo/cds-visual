@@ -84,7 +84,7 @@ _Tasks_
 3. Select $n$ images (for $n > 3$) and rank the images for similarity
 
 #### Similarity
-https://hiweller.github.io/colordistance/color-metrics.html
+[for instructor](https://hiweller.github.io/colordistance/color-metrics.html)
 1. `cv2.compareHist`
 2. Earth Mover’s Distance (scipy.stats.wasserstein_distance)
 3. Chi-squared
