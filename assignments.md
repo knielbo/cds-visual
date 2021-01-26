@@ -86,7 +86,7 @@ _Tasks_
 #### Similarity
 [for instructor](https://hiweller.github.io/colordistance/color-metrics.html)
 1. `cv2.compareHist`
-2. Earth Mover’s Distance (scipy.stats.wasserstein_distance)
+2. Earth Mover’s Distance (`scipy.stats.wasserstein_distance`)
 3. Chi-squared
 ```py
 def chiSquared(p, q):
