@@ -20,6 +20,12 @@
 3. (550, 700, 3)
 4. (3, 700, 550)
 
+> **_Question:_** Instead of our load_display_save.py script outputting a file named newimage.jpg, modify it so the output becomes my_output.png. What is the correct function call to make this change?
+1. cv2.imsave("my_output.png", image)
+2. cv2.imread("my_output.png", image)
+3. cv2.imwrite("my_output.png", image)
+4. cv2.imwrite(image, "my_output.png")
+
 #### Lesson 2 ####
 #### Lesson 3 ####
 #### Lesson 4 ####
