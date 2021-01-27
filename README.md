@@ -46,7 +46,7 @@ $ pip3 install -r requirements.txt
 | v1 | Jan 25 2021 | Launch |
 
 ## Authors
-- Ross .D. Kristensen-McLachlan
+- Ross D. Kristensen-McLachlan
 - Kristoffer L. Nielbo
 
 ## License
