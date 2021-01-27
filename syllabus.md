@@ -31,6 +31,7 @@ Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 
     * color-channels and -space
     * histograms
 3. Image processing with `OpenCV`
+  * convolution kernels
 4. Use cases: Face detection & handwriting recognition
 5. Introduction to classical machine learning
 6. Image classification with `scikit-learn`

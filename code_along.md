@@ -23,7 +23,17 @@ All scripts are in `src/` and notebooks in `examples/`. Scripts for each lesson 
 ##### Comments:
 - reverse color format (BGR) explained: https://learnopencv.com/why-does-opencv-use-bgr-color-format/
 -
+
 #### Lesson 3 ####
+- `convolutions.py`
+- `blurring.py`
+- `sobel_and_laplacian.py`
+- `canny.py`
+##### Comments:
+- this session introduces convolutions for image processing, but with a perspective towards convolutions in CNNs
+- currently the session might be to compact, could cut it in two parts 1: burring & edge-detection, 2: convolution kernels - it is important that the students understand convolution kernels
+
+
 #### Lesson 4 ####
 #### Lesson 5 ####
 #### Lesson 6 ####

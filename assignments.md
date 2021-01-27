@@ -59,9 +59,34 @@
 ##### Comment #####
 - Students must understand reverse color format and x, y coordinates in image
 
-
 #### Lesson 3 ####
+> **_Question:_** As the size of the blur kernel increases…
+1. The kernel size has no impact on how much or how little an image is blurred.
+2. The image will appear less blurred.
+3. The image will appear to be more blurred.
+
+> **_Question:_** The difference between simple average blurring and Gaussian blurring is…
+1. The average blur is a weighted mean of the local pixels and the Gaussian blur is not.
+2. There is no difference between average and Gaussian blurring.
+3. A Gaussian blur is a weighted average of the local pixels and the average blur is not.
+
+> **_Question:_** To obtain better edge maps, we often apply what pre-processing function prior to applying the cv2.Canny function?
+1. Blurring/smoothing
+2. Histogram equalization
+3. Thresholding
+4. Translation
+
+> **_Question:_** Blur img/clonazepam_1mg.png slightly using a 5 x 5 Gaussian kernel. Then apply the cv2.Canny function to detect the outline of the pills in the image. Which set of Canny parameters obtain a “reasonable” edge map?
+1. (10, 200)
+2. (240, 250)
+3. (200, 250)
+
+
 #### Lesson 4 ####
+
+
+
+
 #### Lesson 5 ####
 #### Lesson 6 ####
 #### Lesson 7 ####
@@ -89,8 +114,9 @@ _Tasks_
 2. Earth Mover’s Distance (`scipy.stats.wasserstein_distance`)
 3. Chi-squared
 ```py
-def chiSquared(p, q):
-    return 0.5 * np.sum((p - q) **2 / (p + q + 1e-6))
+def chi2_distance(p, q):
+    # compute and return the chi-squared distance
+    return 0.5 * np.sum((p - q) **2 / (p + q + 1e-10))
 
 
 def chi2_distance(histA, histB, eps = 1e-10):
